@@ -5,7 +5,7 @@
 Welcome to my portfolio of emulation and hardware verification projects.
 
 ## About me
-Engineer with 15 years of experience in pre-silicon validation at Intel. Specialized in FPGA emulation (HAPS, Xilinx Virtex UltraScale), HW/SW co-verification and currently focusing on UVM methodology.
+Engineer with 15 years of experience in pre-silicon validation at Intel. Specialized in FPGA emulation (HAPS, Xilinx Virtex-7/UltraScale+), HW/SW co-verification and currently focusing on UVM methodology.
 
 ## Featured Projects
 - [MAC_timingClosure](https://github.com/iosethpegueros-FPGA/FPGA_misc_projects/tree/main/MAC_timingClosure) : Timing closure analysis (STA) in Vivado with an intentionally constrained architecture.
